@@ -1,3 +1,7 @@
+//在123456789中间添加＋--符号使结果＝100
+
+
+
 #include<stdio.h>
 #define num 100
 #define C10(x) if((x) == num) \
